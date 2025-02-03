@@ -1,8 +1,5 @@
 # keyboard-display-interaction
 
-
-# Text Processing Visualization
-
 An interactive React-based application to visualize the stages of text processing, from keyboard input to display output. This project provides an educational and visually engaging way to explore how text flows through components like the keyboard, controller, operating system, buffer, and display.
 
 ---
